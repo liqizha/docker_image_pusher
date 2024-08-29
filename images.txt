@@ -1,3 +1,7 @@
 nginx
 frooodle/s-pdf:latest
 requarks/wiki
+python
+grafana/grafana
+ubuntu
+wordpress
