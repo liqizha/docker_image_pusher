@@ -1,3 +1,3 @@
 nginx
 frooodle/s-pdf:latest
-lscr.io/linuxserver/wikijs:latest
+requarks/wiki
